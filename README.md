@@ -1,4 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.canva.com/design/DAHEZyxtqEQ/LIKIcie5lIazXgRDXoVxUA/view">
+    <img src="https://www.canva.com/design/DAHEZyxtqEQ/LIKIcie5lIazXgRDXoVxUA/view" width="100%">
+  </a>
+</p>
+
+## Hi there, I'm Mariana 👋
+- 🐛🔍 QA Engineer
+- 💻 Software Development Background
+- 📚 日本語を勉強します。🎌
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently improve my English skills
+- 👯 I’m looking to collaborate on Software 
+- 🤔 I’m looking to start collaborating with international companies 
+- 💬 Ask me about Japanese Language
+- 📫 How to reach me: https://www.linkedin.com/in/marianacarranza-n/
+- 😄 Pronouns: Us
+- ⚡ Fun fact: I love dancing 
+
+
+## Hi there, I'm Mariana 👋
 
 <!--
 **MarianaCarranza/MarianaCarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
