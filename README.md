@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.canva.com/design/DAHEZyxtqEQ/LIKIcie5lIazXgRDXoVxUA/view">
-    <img src="https://www.canva.com/design/DAHEZyxtqEQ/LIKIcie5lIazXgRDXoVxUA/view" width="100%">
+    <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/f3d51d20-c217-4054-abcf-943b61ed7a0e" width="100%">
   </a>
 </p>
 
@@ -18,6 +18,7 @@
 - ⚡ Fun fact: I love dancing 
 
 
+<!--/>
 ## Hi there, I'm Mariana 👋
 
 <!--
