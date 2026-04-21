@@ -6,7 +6,7 @@
 
 ## Hi there, I'm Mariana 👋
 - 🐛🔍 QA Engineer
-- 💻 Software Development Background
+- 💻 Software Developer Background
 - 📚 日本語を勉強します。🎌
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently improve my English skills
